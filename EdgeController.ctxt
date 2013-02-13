@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=EdgeController(NodeController,\ NodeController)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Edge\n\ \n\ @param\ a\ the\ originating\ vertex\n\ @param\ b\ the\ destination\ vertex\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ toString\ representation\ of\ an\ edge\n
+numComments=2
